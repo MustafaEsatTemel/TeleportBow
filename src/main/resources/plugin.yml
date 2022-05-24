@@ -1,0 +1,5 @@
+name: TeleportBow
+version: '${project.version}'
+main: tr.mustafaesattemel.teleportbow.Main
+commands:
+  givebow:
